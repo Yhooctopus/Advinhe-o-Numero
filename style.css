@@ -100,11 +100,11 @@ info.span{
 } */
 
 :root {
-  --green: #e0130b;
-  --red: #1ea6c8;
-  --background: #fafafa;
+  --green: #1baaec;
+  --red: #91e6fc;
+  --background: #7ca7c0ee;
   --gradient-1: #343e63;
-  --gradient-2: #2a3352;
+  --gradient-2: #1865ca;
 }
 
 html {
@@ -127,7 +127,7 @@ main {
   min-height: height 40vh;
   border-radius: 2rem 2rem 2rem 2rem;
   padding: 4rem;
-  color: #5b058d;
+  color: #141016;
 }
 
 h2 {
