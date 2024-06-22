@@ -41,7 +41,7 @@ function compareNumbers() {
     }
 
     else{
-        document.getElementById('textOutput').innerHTML='Sorry, you have reached the maximum number of attempts. The number was' + computerNumber
+        document.getElementById('textOutput').innerHTML='Sorry, you have reached the maximum number of attempts. The number was ' + computerNumber
         document.getElementById('inputBox').setAttribute('Readonly','Readonly')
 
     }
